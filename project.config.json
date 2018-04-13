@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
+	"appid": "wx2a37d983ee229654",
 	"projectname": "coola",
 	"condition": {
 		"search": {
